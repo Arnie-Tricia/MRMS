@@ -1,0 +1,329 @@
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe.config
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.pdb
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.xml
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.loginfrm.resources
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Resources.resources
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.exe
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.xml
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.pdb
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Frontpage.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe.config
+C:\Users\xyza\Documents\2nd - 2nd sem\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.exe
+C:\Users\xyza\Documents\2nd - 2nd sem\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.xml
+C:\Users\xyza\Documents\2nd - 2nd sem\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.pdb
+C:\Users\xyza\Documents\2nd - 2nd sem\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe
+C:\Users\xyza\Documents\2nd - 2nd sem\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.pdb
+C:\Users\xyza\Documents\2nd - 2nd sem\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.xml
+C:\Users\xyza\Documents\2nd - 2nd sem\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\xyza\Documents\2nd - 2nd sem\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.AssemblyReference.cache
+C:\Users\xyza\Documents\2nd - 2nd sem\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Frontpage.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Resources.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.GenerateResource.cache
+C:\Users\xyza\Documents\2nd - 2nd sem\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CoreCompileInputs.cache
+C:\Users\xyza\Documents\2nd - 2nd sem\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CopyComplete
+C:\Users\xyza\Documents\2nd - 2nd sem\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.NurseForms.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.nurselogin.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogin.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.PatientPI.resources
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe.config
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.pdb
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.xml
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Frontpage.resources
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.PatientPI.resources
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.nurselogin.resources
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Resources.resources
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.NurseForms.resources
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogin.resources
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CopyComplete
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.exe
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.xml
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.pdb
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogout.resources
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patienttimein_out.resources
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Nursehomepage.resources
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Addpatient.resources
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.manageuser.resources
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.medsinventory.resources
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlog.resources
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.viewpatient.resources
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientpresc.resources
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\BSIT\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.title.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.AssemblyReference.cache
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Frontpage.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Addpatient.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.manageuser.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.medsinventory.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlog.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.PatientPI.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Nursehomepage.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientpresc.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.title.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.viewpatient.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.nurselogin.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Resources.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.NurseForms.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogin.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogout.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patienttimein_out.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.GenerateResource.cache
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CoreCompileInputs.cache
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.exe
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.xml
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.pdb
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe.config
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.pdb
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.xml
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.WPF.dll
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MySql.Data.dll
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CopyComplete
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe.config
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.pdb
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.xml
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Frontpage.resources
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Addpatient.resources
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.manageuser.resources
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.medsinventory.resources
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlog.resources
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.PatientPI.resources
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Nursehomepage.resources
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientpresc.resources
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.title.resources
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.viewpatient.resources
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.nurselogin.resources
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Resources.resources
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.NurseForms.resources
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogin.resources
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogout.resources
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patienttimein_out.resources
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CopyComplete
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.exe
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.xml
+C:\Users\Admin\Desktop\BSIT\New folder\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.pdb
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe.config
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.pdb
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.xml
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Frontpage.resources
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Addpatient.resources
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.manageuser.resources
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.medsinventory.resources
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlog.resources
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.PatientPI.resources
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Nursehomepage.resources
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientpresc.resources
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.title.resources
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.viewpatient.resources
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.nurselogin.resources
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Resources.resources
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.NurseForms.resources
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogin.resources
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogout.resources
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patienttimein_out.resources
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CopyComplete
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.exe
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.xml
+C:\Users\Admin\Desktop\ayokoo na\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.pdb
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe.config
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.pdb
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.xml
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Frontpage.resources
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Addpatient.resources
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.manageuser.resources
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.medsinventory.resources
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlog.resources
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.PatientPI.resources
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Nursehomepage.resources
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientpresc.resources
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.title.resources
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.viewpatient.resources
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.nurselogin.resources
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Resources.resources
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.NurseForms.resources
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogin.resources
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogout.resources
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patienttimein_out.resources
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CopyComplete
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.exe
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.xml
+C:\Users\Admin\Desktop\mrsm-april16\MRMS_Proj\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.pdb
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe.config
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.pdb
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.xml
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.WPF.dll
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MySql.Data.dll
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.AssemblyReference.cache
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Frontpage.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Addpatient.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.manageuser.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.medsinventory.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlog.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.PatientPI.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Nursehomepage.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientpresc.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.title.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.viewpatient.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.nurselogin.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Resources.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.NurseForms.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogin.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogout.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patienttimein_out.resources
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.GenerateResource.cache
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CoreCompileInputs.cache
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CopyComplete
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.exe
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.xml
+C:\Users\xyza\Documents\2nd - 2nd sem\New folder\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.pdb
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe.config
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.pdb
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.xml
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Frontpage.resources
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Addpatient.resources
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.manageuser.resources
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.medsinventory.resources
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlog.resources
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.PatientPI.resources
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Nursehomepage.resources
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientpresc.resources
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.title.resources
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.viewpatient.resources
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.nurselogin.resources
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Resources.resources
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.NurseForms.resources
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogin.resources
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogout.resources
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patienttimein_out.resources
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CopyComplete
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.exe
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.xml
+C:\Users\Admin\Desktop\MRMS-backup\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.pdb
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe.config
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.pdb
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.xml
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.WPF.dll
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MySql.Data.dll
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.AssemblyReference.cache
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Frontpage.resources
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Addpatient.resources
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.manageuser.resources
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.medsinventory.resources
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlog.resources
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.PatientPI.resources
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Nursehomepage.resources
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientpresc.resources
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.title.resources
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.viewpatient.resources
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.nurselogin.resources
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Resources.resources
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.NurseForms.resources
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogin.resources
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogout.resources
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patienttimein_out.resources
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.GenerateResource.cache
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CoreCompileInputs.cache
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CopyComplete
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.exe
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.xml
+C:\Users\xyza\Desktop\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.pdb
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe.config
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe.manifest
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.application
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.pdb
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.xml
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Frontpage.resources
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Addpatient.resources
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.manageuser.resources
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.medsinventory.resources
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlog.resources
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.PatientPI.resources
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Nursehomepage.resources
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientpresc.resources
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.title.resources
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.viewpatient.resources
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.nurselogin.resources
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Resources.resources
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.NurseForms.resources
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogin.resources
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogout.resources
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patienttimein_out.resources
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.TrustInfo.xml
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.exe.manifest
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.application
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.CopyComplete
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.exe
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.xml
+C:\Users\Admin\Desktop\finall\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.pdb
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\bin\Debug\MRMS_Proj.exe.config
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.exe
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.xml
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.pdb
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbprojResolveAssemblyReference.cache
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Frontpage.resources
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Addpatient.resources
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.manageuser.resources
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.medsinventory.resources
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlog.resources
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.PatientPI.resources
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Nursehomepage.resources
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientpresc.resources
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.title.resources
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.viewpatient.resources
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.nurselogin.resources
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.Resources.resources
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.NurseForms.resources
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogin.resources
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patientlogout.resources
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.patienttimein_out.resources
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.vbproj.GenerateResource.Cache
+E:\Downloads\MRMS_Proj-23\MRMS_Proj-16\MRMS_Proj\MRMS_Proj\obj\Debug\MRMS_Proj.TrustInfo.xml
